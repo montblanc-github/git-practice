@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# DMM WEBCAMP
-=======
-# DMM WEBCAMP
->>>>>>> 8d00437d47d3444b67ba1887077674b2131a038e
+# DMM WEBCAMPコンテンツ【Gitを学ぼう】
+DMM WEBCAMPの学習コンテンツGitを学ぼうの研修課題です。
+## メモ
+Git学習用のため、ファイルはREADMEのみです。
